@@ -5,6 +5,8 @@ from time import sleep
 from datetime import datetime
 from bs4 import BeautifulSoup
 
+dir_path = os.path.dirname(os.path.realpath(__file__))
+
 def prepare_soup(abbrv, chapter):
     base_url = "https://www.bible.com/bible/2914/%s.%s.MFANBRPC" % (abbrv, chapter)
     headers = {
@@ -20,12 +22,12 @@ def save_data(abbrv:str, chapter:str, data:dict):
         csv_data += f"\"{item['code']}\", \"{item['text']}\", \"{item['note']}\"\n"
         # print(item)
         
-    dir_path = os.path.dirname(os.path.realpath(__file__))
+    
     data_path = f"{dir_path}/data/{abbrv}"
     if not os.path.exists(data_path):
         os.makedirs(data_path)
     
-    chapter_code = "C%s" % str(chapter).zfill(3)
+    chapter_code = str(chapter).zfill(3)
     chapter_file = f"{data_path}/{abbrv}.{chapter_code}.csv"
     clean = open(chapter_file, 'w+', encoding='utf-8')
     clean.writelines(csv_data)
@@ -87,18 +89,22 @@ def scrap_data(abbrv:str, chapter:str):
 
 
 def main():
-    with open("books.csv", "r") as f:
+    with open(f"{dir_path}/books.csv", "r") as f:
         reader = csv.reader(f)
         for row in reader:
             print(row)
                     
             abbrv = row[1].strip()
             chapters = row[4].strip()
-            for chapter in range(1, int(chapters) + 1):
-                data = scrap_data(abbrv, chapter)
-                save_data(abbrv, chapter, data)
-                print("%s %s %s ...done!" % (datetime.now(), abbrv, chapter))
-                sleep(5)
+            status = int(row[5].strip())
+            if status == 0:
+                for chapter in range(1, int(chapters) + 1):
+                    data = scrap_data(abbrv, chapter)
+                    save_data(abbrv, chapter, data)
+                    print("%s %s %s ...done!" % (datetime.now(), abbrv, chapter))
+                    sleep(5)
+            else:
+                print("%s %s ...already done!" % (datetime.now(), abbrv))
                 
         print("EVERYTHING...done!")
     

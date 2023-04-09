@@ -1,66 +1,66 @@
-T01, GEN, Gyenesis, Genesis, 50
-T01, EXO, Eksodɔs, Exodus, 40
-T01, LEV, Levitikɔs, Leviticus, 27
-T01, NUM, Nkanee, Numbers, 36
-T01, DEU, Deuteronomi, Deuteronomy, 34
-T01, JOS, Josua, Joshua, 24
-T01, JDG, Atsɛmbuafo, Judges, 21
-T01, RUT, Rut, Ruth, 4
-T01, 1SA, "1 Samuel", "1 Samuel", 31
-T01, 2SA, "2 Samuel", "2 Samuel", 24
-T01, 1KI, "1 Ahemfo", "1 Kings", 22
-T01, 2KI, "2 Ahemfo", "2 Kings", 25
-T01, 1CH, "1 Mbermunsɛm", "1 Chronicles", 29
-T01, 2CH, "2 Mbermunsɛm","2 Chronicles", 36
-T01, EZR, Ezra, Ezra, 10
-T01, NEH, Nehemia, Nehemiah, 13
-T01, EST, Ester, Esther, 10
-T01, JOB, Job, Job, 42
-T01, PSA, Ndwom, Psalms, 150
-T01, PRO, Mbɛbusɛm, Proverbs, 31
-T01, ECC, Ɔsɛnkafo, Ecclesiastes, 12
-T01, SNG, "Ndwom mu Ndwom", "Song of Solomon", 8
-T01, ISA, Isaia, Isaiah, 66
-T01, JER, Jeremia, Jeremiah, 52
-T01, LAM, Kwadwom, Lamentations, 5
-T01, EZK, Ezekiel, Ezekiel, 48
-T01, DAN, Daniel, Daniel, 12
-T01, HOS, Hosea, Hosea, 14
-T01, JOL, Joel, Joel, 3
-T01, AMO, Amos, Amos, 9
-T01, OBA, Obadia, Obadiah, 1
-T01, JON, Jona, Jonah, 4
-T01, MIC, Mika, Micah, 7
-T01, NAM, Nahum, Nahum, 3
-T01, HAB, Habakuk, Habakkuk, 3
-T01, ZEP, Zefania, Zephaniah, 3
-T01, HAG, Hagai, Haggai, 2
-T01, ZEC, Zekaria, Zechariah, 14
-T01, MAL, Malaki, Malachi, 4
-T02, MAT, Matthew, Matthew, 28
-T02, MRK, Mark, Mark, 16
-T02, LUK, Luke, Luke, 24
-T02, JHN, John, John, 21 
-T02, ACT, Ndwuma, Acts, 28
-T02, ROM, Romefo, Romans, 16
-T02, 1CO, "1 Korintefo", "1 Corinthians", 16
-T02, 2CO, "2 Korintefo", "2 Corinthians", 13
-T02, GAL, Galatiafo, Galatians, 6
-T02, EPH, Efesofo, Ephesians, 6
-T02, PHP, Filipifo, Philippians, 4
-T02, COL, Kolosaefo, Colossians, 4
-T02, 1TH, "1 Tesalonikafo", "1 Thessalonians", 5
-T02, 2TH, "2 Tesalonikafo", "2 Thessalonians", 3
-T02, 1TI, "1 Timoti", "1 Timothy", 6
-T02, 2TI, "2 Timoti","2 Timothy", 4
-T02, TIT, Titus, Titus, 3
-T02, PHM, Faelemɔn, Philemon, 1
-T02, HEB, Hebriwfo, Hebrews, 13
-T02, JAS, James, James, 5
-T02, 1PE, "1 Peter", "1 Peter", 5
-T02, 2PE, "2 Peter", "2 Peter", 3
-T02, 1JN, "1 John", "1 John", 5
-T02, 2JN, "2 John", "2 John", 1
-T02, 3JN, "3 John", "3 John", 1
-T02, JUD, Jude, Jude, 1
-T02, REV, Nyikyerɛ, Revelation, 22
+T01, GEN, Gyenesis, Genesis, 50, 1
+T01, EXO, Eksodɔs, Exodus, 40, 1
+T01, LEV, Levitikɔs, Leviticus, 27, 1
+T01, NUM, Nkanee, Numbers, 36, 1
+T01, DEU, Deuteronomi, Deuteronomy, 34, 1
+T01, JOS, Josua, Joshua, 24, 1
+T01, JDG, Atsɛmbuafo, Judges, 21, 1
+T01, RUT, Rut, Ruth, 4, 1
+T01, 1SA, "1 Samuel", "1 Samuel", 31, 1
+T01, 2SA, "2 Samuel", "2 Samuel", 24, 1
+T01, 1KI, "1 Ahemfo", "1 Kings", 22, 1
+T01, 2KI, "2 Ahemfo", "2 Kings", 25, 1
+T01, 1CH, "1 Mbermunsɛm", "1 Chronicles", 29, 1
+T01, 2CH, "2 Mbermunsɛm","2 Chronicles", 36, 1
+T01, EZR, Ezra, Ezra, 10, 1
+T01, NEH, Nehemia, Nehemiah, 13, 1
+T01, EST, Ester, Esther, 10, 1
+T01, JOB, Job, Job, 42, 1
+T01, PSA, Ndwom, Psalms, 150, 1
+T01, PRO, Mbɛbusɛm, Proverbs, 31, 1
+T01, ECC, Ɔsɛnkafo, Ecclesiastes, 12, 1
+T01, SNG, "Ndwom mu Ndwom", "Song of Solomon", 8, 1
+T01, ISA, Isaia, Isaiah, 66, 1
+T01, JER, Jeremia, Jeremiah, 52, 1
+T01, LAM, Kwadwom, Lamentations, 5, 1
+T01, EZK, Ezekiel, Ezekiel, 48, 1
+T01, DAN, Daniel, Daniel, 12, 1
+T01, HOS, Hosea, Hosea, 14, 0
+T01, JOL, Joel, Joel, 3, 0
+T01, AMO, Amos, Amos, 9, 0
+T01, OBA, Obadia, Obadiah, 1, 0
+T01, JON, Jona, Jonah, 4, 0
+T01, MIC, Mika, Micah, 7, 0
+T01, NAM, Nahum, Nahum, 3, 0
+T01, HAB, Habakuk, Habakkuk, 3, 0
+T01, ZEP, Zefania, Zephaniah, 3, 0
+T01, HAG, Hagai, Haggai, 2, 0
+T01, ZEC, Zekaria, Zechariah, 14, 0
+T01, MAL, Malaki, Malachi, 4, 0
+T02, MAT, Matthew, Matthew, 28, 0
+T02, MRK, Mark, Mark, 16, 0
+T02, LUK, Luke, Luke, 24, 0
+T02, JHN, John, John, 21, 0
+T02, ACT, Ndwuma, Acts, 28, 0
+T02, ROM, Romefo, Romans, 16, 0
+T02, 1CO, "1 Korintefo", "1 Corinthians", 16, 0
+T02, 2CO, "2 Korintefo", "2 Corinthians", 13, 0
+T02, GAL, Galatiafo, Galatians, 6, 0
+T02, EPH, Efesofo, Ephesians, 6, 0
+T02, PHP, Filipifo, Philippians, 4, 0
+T02, COL, Kolosaefo, Colossians, 4, 0
+T02, 1TH, "1 Tesalonikafo", "1 Thessalonians", 5, 0
+T02, 2TH, "2 Tesalonikafo", "2 Thessalonians", 3, 0
+T02, 1TI, "1 Timoti", "1 Timothy", 6, 0
+T02, 2TI, "2 Timoti","2 Timothy", 4, 0
+T02, TIT, Titus, Titus, 3, 0
+T02, PHM, Faelemɔn, Philemon, 1, 0
+T02, HEB, Hebriwfo, Hebrews, 13, 0
+T02, JAS, James, James, 5, 0
+T02, 1PE, "1 Peter", "1 Peter", 5, 0
+T02, 2PE, "2 Peter", "2 Peter", 3, 0
+T02, 1JN, "1 John", "1 John", 5, 0
+T02, 2JN, "2 John", "2 John", 1, 0
+T02, 3JN, "3 John", "3 John", 1, 0
+T02, JUD, Jude, Jude, 1, 0
+T02, REV, Nyikyerɛ, Revelation, 22, 0
