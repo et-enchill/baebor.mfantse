@@ -15,7 +15,12 @@ def read_data(abbrv: str, chapter:str) -> str:
         reader = csv.reader(f)
         for row in reader:
             verse_no = str(row[0]).split(".")[-1]
-            verse_text = str(row[1]).strip().strip('"')
+            
+            texts = []
+            for i in range(1, len(row)-1):
+                text = str(row[i]).strip().strip('"')
+                texts.append(text)
+            verse_text = ", ".join(texts)
             data += f"{verse_no}. {verse_text}\n"
 
     return data

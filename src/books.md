@@ -1,0 +1,66 @@
+- Gyenesis: baebor/gen.md
+- Eksodɔs: baebor/exo.md
+- Levitikɔs: baebor/lev.md
+- Nkanee: baebor/num.md
+- Deuteronomi: baebor/deu.md
+- Josua: baebor/jos.md
+- Atsɛmbuafo: baebor/jdg.md
+- Rut: baebor/rut.md
+- "1 Samuel": baebor/1sa.md
+- "2 Samuel": baebor/2sa.md
+- "1 Ahemfo": baebor/1ki.md
+- "2 Ahemfo": baebor/2ki.md
+- "1 Mbermunsɛm": baebor/1ch.md
+- "2 Mbermunsɛm": baebor/2ch.md
+- Ezra: baebor/ezr.md
+- Nehemia: baebor/neh.md
+- Ester: baebor/est.md
+- Job: baebor/job.md
+- Ndwom: baebor/psa.md
+- Mbɛbusɛm: baebor/pro.md
+- Ɔsɛnkafo: baebor/ecc.md
+- "Ndwom mu Ndwom": baebor/sng.md
+- Isaia: baebor/isa.md
+- Jeremia: baebor/jer.md
+- Kwadwom: baebor/lam.md
+- Ezekiel: baebor/ezk.md
+- Daniel: baebor/dan.md
+- Hosea: baebor/hos.md
+- Joel: baebor/jol.md
+- Amos: baebor/amo.md
+- Obadia: baebor/oba.md
+- Jona: baebor/jon.md
+- Mika: baebor/mic.md
+- Nahum: baebor/nam.md
+- Habakuk: baebor/hab.md
+- Zefania: baebor/zep.md
+- Hagai: baebor/hag.md
+- Zekaria: baebor/zec.md
+- Malaki: baebor/mal.md
+- Matthew: baebor/mat.md
+- Mark: baebor/mrk.md
+- Luke: baebor/luk.md
+- John: baebor/jhn.md
+- Ndwuma: baebor/act.md
+- Romefo: baebor/rom.md
+- "1 Korintefo": baebor/1co.md
+- "2 Korintefo": baebor/2co.md
+- Galatiafo: baebor/gal.md
+- Efesofo: baebor/eph.md
+- Filipifo: baebor/php.md
+- Kolosaefo: baebor/col.md
+- "1 Tesalonikafo": baebor/1th.md
+- "2 Tesalonikafo": baebor/2th.md
+- "1 Timoti": baebor/1ti.md
+- "2 Timoti": baebor/2ti.md
+- Titus: baebor/tit.md
+- Faelemɔn: baebor/phm.md
+- Hebriwfo: baebor/heb.md
+- James: baebor/jas.md
+- "1 Peter": baebor/1pe.md
+- "2 Peter": baebor/2pe.md
+- "1 John": baebor/1jn.md
+- "2 John": baebor/2jn.md
+- "3 John": baebor/3jn.md
+- Jude: baebor/jud.md
+- Nyikyerɛ: baebor/rev.md
